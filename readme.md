@@ -1,14 +1,16 @@
-<h1 style="text-align:center">Hey! welcome to my github page! </h1>
-<img src="https://images.hdqwalls.com/wallpapers/spider-man-miles-morales-be-yourself-65.jpg"> </img>
-<h1 style="text-align:center;text-transform: uppercase;font-weight:bold; color:#EB3E37;">This is my mantra</h1>
-<h2 style="text-align: center; font-weight:bold;"> I'm a frontend dev nowadays, and looking forward to learn even more! </h2>
-<h1 style="text-align:center;color:blue">My Skills are: </h1>
-<tr>
-<td> <img style="width:70px;" src="https://image.flaticon.com/icons/png/512/1051/1051277.png"></td>
-<td><img style="width:70px;" src="https://image.flaticon.com/icons/png/512/1126/1126012.png"></td>
-<td> <img style="width:70px;" src="https://image.flaticon.com/icons/png/512/919/919828.png"></td>
-<td><img style="width:70px;" src="https://image.flaticon.com/icons/png/512/919/919831.png"></td>
-<td><img style="width:70px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"></td>
-</tr>
-<hr>
+<img align="right" width="300px" src="./img/miranha.png">
 
+<img align="right" width="500px" src="./img/be_yourself.png">
+
+# 🔥 Welcome to my github page 🔥
+
+## 🎉 This is my **mantra**
+
+**I am a frontend developer nowadaysand looking forward to learn even more!**
+
+### 🚀 **My skills**
+
+![HTML5 bBadge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
