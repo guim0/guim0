@@ -1,14 +1,19 @@
-<img align="right" width="300px" src="./img/miranha.png">
+ # 🔥 Welcome to my github page 🔥
+ ### **I am a frontend developer nowadays and looking forward to learn even more!**
 
-<img align="right" width="500px" src="./img/be_yourself.png">
+<img align="right" width="200px" src="./img/miranha.png">
 
-# 🔥 Welcome to my github page 🔥
+##
 
-## 🎉 This is my **mantra**
-
-**I am a frontend developer nowadaysand looking forward to learn even more!**
-
+<div>
+    <a href="https//beacons.ai/guim0">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guim0&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>     
+     
+</div>
+ 
 ### 🚀 **My skills**
+  <div style="display: inline-block> 
 
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -19,3 +24,4 @@
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+</div>
