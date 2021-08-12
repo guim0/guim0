@@ -1,5 +1,5 @@
- # 🔥 Welcome to my github page 🔥
- ### **I am a frontend developer nowadays and looking forward to learn even more!**
+ <h1 align="center"> 🔥 Welcome to my github page 🔥 </h1>
+ <p align="center"> I am a frontend developer nowadays and looking forward to learn even more! </p>
 
 <img align="right" width="200px" src="./img/miranha.png">
 
