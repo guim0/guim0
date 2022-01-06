@@ -27,5 +27,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
-              <h2><a href="https://guim0.github.io">My landing page </a>  </h2>           
+ <span><a href="https://guim0.github.io">My landing page(WORKING ON IT) </a>  </span>     
+                                      <hr/> 
+<ul>
+<p> Some of my work 👇🏽</p>
+<li><a href="https://eventos.transformabrasil.com.br/">Transforma Brasil Eventos </a></li> 
+<li><a href="https://ebook.transformabrasil.com.br/">Transforma Brasil E-Books </a></li>
+<li><h4> I Thank all this to <a href="https://maquinadobem.com"> Maquina do bem </a> </h4></li>                                                                                                       
+ </ul>
           
