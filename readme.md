@@ -33,6 +33,6 @@
 <p> Some of my work 👇🏽</p>
 <li><a href="https://eventos.transformabrasil.com.br/">Transforma Brasil Eventos </a></li> 
 <li><a href="https://ebook.transformabrasil.com.br/">Transforma Brasil E-Books </a></li>
-<li><h4> I Thank all this to <a href="https://maquinadobem.com"> Maquina do bem </a> </h4></li>                                                                                                       
+<li><h4> I Thank all this to <a href="https://maquinadobem.com"> Maquina do bem </a> </h4></li>                                                                          <li><a href="https://www.linkedin.com/in/guilherme-a-29b0ab133/">My Linkedin page </a></li>                             
  </ul>
           
