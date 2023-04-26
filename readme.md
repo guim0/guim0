@@ -5,12 +5,7 @@
 
 ##
 
-<div>
-    <a href="https//beacons.ai/guim0">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guim0&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"/>     
-     
-</div>
+
  
 ### 🚀 **My skills**
   <div style="display: inline-block> 
