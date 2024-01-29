@@ -1,20 +1,18 @@
  <h1 align="center"> 🔥 Welcome 🔥 </h1>
  <h3 align="center"> I am a frontend developer! </h3>
-<div align="center"><a href="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia"><img src="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia.svg" alt="wakatime"></a>></div>
+<div align="center"><a href="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia"><img src="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia.svg" alt="wakatime"></a></div>
 
  
 
 <img align="right" width="200px" src="./img/miranha.png">
 
 ## Main Skill
-
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ### Frameworks & Libs
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ### Other skills
----
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GIT Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
