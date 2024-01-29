@@ -1,6 +1,6 @@
  <h1 align="center"> 🔥 Welcome 🔥 </h1>
  <h3 align="center"> I am a frontend developer! </h3>
-<div align="center"> <a href="https://wakatime.com/badge/github/guim0/guim0"><img src="https://wakatime.com/badge/github/guim0/guim0.svg" alt="wakatime"></a></div>
+<div align="center"><a href="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia"><img src="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia.svg" alt="wakatime"></a>></div>
 
  
 
