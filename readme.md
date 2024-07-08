@@ -1,10 +1,11 @@
- <h1 align="center"> 🔥 Welcome to my Github 🔥 | I am a Frontend Developer </h1>
+ <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Frontend Developer </h1>
  <h3 align="center"> Here is a Overview of every project I'm working currently</h3>
 <div align="center">
 <div>
  <h4>On my current job</h4>
  <h5>Frontend Development</h5>
   <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5622-103c-4013-abfe-7425d764cee4"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5622-103c-4013-abfe-7425d764cee4.svg" alt="wakatime"></a>
+ <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5637-c0f4-4b5f-8c2c-d377b9cccd47"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5637-c0f4-4b5f-8c2c-d377b9cccd47.svg" alt="wakatime"></a>
 <h5>Cypress/ End-to-end Testing</h5>
  <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5609-1e92-4dd4-8d98-ba4e465697af"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018d5609-1e92-4dd4-8d98-ba4e465697af.svg" alt="wakatime"></a>
 </div>
