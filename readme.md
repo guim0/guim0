@@ -1,5 +1,5 @@
  <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Frontend Developer </h1>
- <h3 align="center"> Here is a Overview of every project I'm working currently</h3>
+ <h3 align="center">Overview of the projects I'm currently working</h3>
 <div align="center">
 <div>
  <h4>On my current job</h4>
