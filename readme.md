@@ -1,4 +1,4 @@
- <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Frontend Developer </h1>
+ <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Software Engineer </h1>
  <h4>Personal side projects / Open Source</h4>
   <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/969679b6-29df-4c30-ae17-a940b1cc9bad"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/969679b6-29df-4c30-ae17-a940b1cc9bad.svg" alt="wakatime"></a>
  <a href="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia"><img src="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia.svg" alt="wakatime"></a>
