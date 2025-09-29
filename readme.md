@@ -1,8 +1,7 @@
  <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Software Engineer </h1>
- <h4>Personal side projects / Open Source</h4>
-  <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/969679b6-29df-4c30-ae17-a940b1cc9bad"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/969679b6-29df-4c30-ae17-a940b1cc9bad.svg" alt="wakatime"></a>
- <a href="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia"><img src="https://wakatime.com/badge/github/guim0/rickAndMorty-encyclopedia.svg" alt="wakatime"></a>
- <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018de5d0-4b8c-4679-92d6-e8ab99529cc4"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/018de5d0-4b8c-4679-92d6-e8ab99529cc4.svg" alt="wakatime"></a>
+ <h4 align="center">Amount of Time so far on current job (Wakatime plugin added on 29/09/2025)</h4>
+ <div align="center">  <a href="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/8de7f544-49bd-42c4-b25d-8be5cf2cb8ba"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b/project/8de7f544-49bd-42c4-b25d-8be5cf2cb8ba.svg" alt="wakatime"></a>
+  </div>
 </div>
 
 ## Contact me 
