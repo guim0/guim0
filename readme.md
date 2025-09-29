@@ -1,6 +1,6 @@
  <h1 align="center"> 🔥 Welcome to my Github 🔥 <br/> I am a Software Engineer </h1>
 
- <h4 align="center">How much i've worked (career)</h4>
+ <h4 align="center">Wakatime so far</h4>
  <div align="center">
   <a href="https://wakatime.com/@018d40cf-65db-4bd8-88ba-c3803f60de6b"><img src="https://wakatime.com/badge/user/018d40cf-65db-4bd8-88ba-c3803f60de6b.svg" alt="Total time coded since Jan 25 2024" /></a>
  </div>
